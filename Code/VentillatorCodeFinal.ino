@@ -1,6 +1,4 @@
-/*	Code for Texas Tech University Project Lab 1
-* 	Authors:
-*	Adib Shakib, Austin Cawley, Mushfique Kahn
+/*
 *
 *	ARDUINO MEGA PIN ASSIGNMENTS
 *	2	PWM	trigPin
